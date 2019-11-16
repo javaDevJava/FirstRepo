@@ -1,0 +1,2 @@
+someText
+I have checkout on local branch now and I will do a commit soon
