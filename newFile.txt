@@ -1,1 +1,2 @@
+123 conflict
 commit Karol 1
