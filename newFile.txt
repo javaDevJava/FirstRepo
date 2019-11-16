@@ -1,2 +1,4 @@
+
 123 conflict
+pod merge conflict
 commit Karol 1
