@@ -3,4 +3,4 @@ commit2
 commit3
 
 adaddasdsa
-Nowa wiadomość 10
+Nowa wiadomość 10@
